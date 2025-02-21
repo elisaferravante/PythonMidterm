@@ -18,6 +18,6 @@ def is_valid_url(url):
 # Example of use
 print(is_valid_url("http://example.com"))  # True
 print(is_valid_url("https://github.com"))  # True
-print(is_valid_url("ftp://example.com"))  # False (wrong protocol)
-print(is_valid_url("example.com"))  # False (no protocol)
-print(is_valid_url("http://example"))  # False (no valid domain ending)
+print(is_valid_url("ftp://example2.com"))  # False (wrong protocol)
+print(is_valid_url("example3.com"))  # False (no protocol)
+print(is_valid_url("http://example4"))  # False (no valid domain ending)

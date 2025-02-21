@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="573d6919-8a07-4921-86e6-beef6cbd9ec4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonMidterm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question9.py" afterDir="false" />
-    </list>
+    <list default="true" id="573d6919-8a07-4921-86e6-beef6cbd9ec4" name="Changes" comment="Midterm Exam results" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1740127525119</updated>
     </task>
+    <task id="LOCAL-00001" summary="Midterm Exam results">
+      <option name="closed" value="true" />
+      <created>1740133611902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740133611902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Midterm Exam results" />
+    <option name="LAST_COMMIT_MESSAGE" value="Midterm Exam results" />
   </component>
 </project>
